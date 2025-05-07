@@ -3,7 +3,7 @@ public class ativi6 {
             int a = 0;
             int b = 1;
     
-            System.out.println("Série de Fibonacci até passar de 100:");
+            System.out.println("Serie de Fibonacci ate passar de 100:");
     
             while (a <= 100) {
                 System.out.print(a + " ");
